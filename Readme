@@ -1,0 +1,6 @@
+# Data Exploration Assignments
+
+* This repository contains foundational data manipulation scripts written in both Python (Pandas) and R.
+* The included code covers essential data science tasks: loading CSV files from the web, exploring summary statistics, conditional column creation, and sorting.
+* Practicing these core wrangling techniques helps build a strong programmatic intuition from first principles.
+* Mastering these basics serves as a critical stepping stone toward advanced machine learning projects and GATE DA preparation.
